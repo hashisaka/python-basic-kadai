@@ -1,6 +1,0 @@
-upper_side = 10
-lower_side = 20
-height = 5
-area = (upper_side + lower_side) * height / 2
-
-print(f"上辺{upper_side}cm、下辺{lower_side}cm、高さ{height}cmの台形の面積は{area}㎠です。")
